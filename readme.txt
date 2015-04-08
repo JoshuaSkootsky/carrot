@@ -20,4 +20,22 @@ Motivation:
 
 Usage:
 
-    
+
+
+Why is this hard?
+
+    http://xkcd.com/1425/
+
+    transcript
+
+    [Ponytail sitting at a computer with Cueball standing behind her.]
+    Cueball: When a user takes a photo,
+    the app should check whether they're in a national park...
+    Ponytail: Sure, easy GIS lookup. Gimme a few hours.
+    Cueball: ...and check whether the photo is of a bird.
+    Ponytail: I'll need a research team and five years.
+    In CS, it can be hard to explain the difference between the easy
+    and the virtually impossible.    
+
+
+

@@ -1,3 +1,11 @@
+This project is under the Boost Software License v1.0
+
+It incoporates code from the OpenCV project, a BSD style License
+See OPENCV_LICENSE for details
+
+The dm.py module comes from StackOverflow, orginially written by rayryeng 
+(a StackOverFlow user profile)
+
 Boost Software License - Version 1.0 - August 17th, 2003
 
 Permission is hereby granted, free of charge, to any person or organization
