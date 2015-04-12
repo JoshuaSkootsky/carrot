@@ -4,7 +4,7 @@
 
 ###Year: 2015
 
-###License: Boost 1.0 (See LICENSE file or [http://www.boost.org/LICENSE_1_0.txt])
+###License: Boost 1.0 (See LICENSE file or http://www.boost.org/LICENSE_1_0.txt)
 
 #Purpose:
 
@@ -16,7 +16,7 @@ If there is a carrot in the picture, say so
 
 #Motivation:
 
-[https://www.facebook.com/groups/1500321840185061/1579590368924874/
+https://www.facebook.com/groups/1500321840185061/1579590368924874/
 
 Athena Cocoves:
 "is that a carrot" identification software
@@ -34,13 +34,13 @@ images using the ORB algorithm from OpenCV
     Python 2.7
     OpenCV 2.6.11 (Put it in your PYTHONPATH)
 
-    This project could be re-written for Python 3 and OpenCV 3.0.0    
+This project could be re-written for Python 3 and OpenCV 3.0.0    
 
 #Why is this hard?
 
-[http://xkcd.com/1425/]
+http://xkcd.com/1425/
 
-    transcript
+transcript
 
     [Ponytail sitting at a computer with Cueball standing behind her.]
     Cueball: When a user takes a photo,
