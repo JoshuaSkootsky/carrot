@@ -1,41 +1,41 @@
 Project name: is_carrot
 Author: Joshua Skootsky
 Year: 2015
-License: Boost 1.0 (See LICENSE file or http://www.boost.org/LICENSE_1_0.txt)
+License: Boost 1.0 (See LICENSE file or [http://www.boost.org/LICENSE_1_0.txt])
 
-Purpose:
+#Purpose:
 
-    To identify carrots
+To identify carrots
 
-Specification:
+#Specification:
 
-    If there is a carrot in the picture, say so
+If there is a carrot in the picture, say so
 
-Motivation:
+#Motivation:
 
-    https://www.facebook.com/groups/1500321840185061/1579590368924874/
+[https://www.facebook.com/groups/1500321840185061/1579590368924874/
 
-    Athena Cocoves:
-    "is that a carrot" identification software
+Athena Cocoves:
+"is that a carrot" identification software
 
-Usage:
+#Usage:
 
- in the carrot.py file, change one (or two!) of the image path variables to
+in the carrot.py file, change one (or two!) of the image path variables to
 pictures you would like to compare to carrots, or anything else really.
 
-    Carrot.py when run will find the 10 most similar features between the two
-    images using the ORB algorithm from OpenCV
+Carrot.py when run will find the 10 most similar features between the two
+images using the ORB algorithm from OpenCV
 
-Dependencies:
+#Dependencies:
 
     Python 2.7
     OpenCV 2.6.11 (Put it in your PYTHONPATH)
 
     This project could be re-written for Python 3 and OpenCV 3.0.0    
 
-Why is this hard?
+#Why is this hard?
 
-    http://xkcd.com/1425/
+[http://xkcd.com/1425/]
 
     transcript
 
