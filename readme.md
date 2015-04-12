@@ -1,7 +1,10 @@
-Project name: is_carrot
-Author: Joshua Skootsky
-Year: 2015
-License: Boost 1.0 (See LICENSE file or [http://www.boost.org/LICENSE_1_0.txt])
+###Project name: is_carrot
+
+###Author: Joshua Skootsky
+
+###Year: 2015
+
+###License: Boost 1.0 (See LICENSE file or [http://www.boost.org/LICENSE_1_0.txt])
 
 #Purpose:
 
