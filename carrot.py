@@ -9,6 +9,7 @@ import cv2
 import dm
 from matplotlib import pyplot as plt
 
+# MODIFY THESE TO COMPARE TWO PICTURES
 img1path = 'pictures_carrots/carrot_train2.png'
 img2path = 'pictures_carrots/carrot6.jpg'
 

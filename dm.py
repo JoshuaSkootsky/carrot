@@ -1,3 +1,4 @@
+# coding: utf-8
 """
     rayryeng wrote this
     Joshua Skootsky made some changes
@@ -17,9 +18,8 @@ All the content contributed to Stack Overflow or other Stack Exchange sites is c
 
 But our cc-wiki licensing, while intentionally permissive, does require attribution.
 
-Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-
-""" 
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work)
+"""
 
 import numpy as np
 import cv2
